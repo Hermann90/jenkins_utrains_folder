@@ -6,7 +6,7 @@
 #Author Serge  Aug 2017
 #Modify: sept 2019
 #Modified: Jun 2020
-
+#####Seen by lillian oon 7/7/22
 
 
 OS_VERSION=`cat /etc/*release |grep VERSION_ID |awk -F\" '{print $2}'`
